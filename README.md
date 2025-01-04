@@ -57,7 +57,6 @@ Ceci est une implémentation simple en Java de la version console du jeu classiq
 
 - Ajouter une représentation visuelle de la grille pour une meilleure expérience de jeu.
 - Supporter plusieurs bateaux de tailles variées.
-- Implémenter une IA pour une expérience en solo.
 - Améliorer la validation des entrées pour éviter les erreurs de limites et de chevauchement.
 
 ## Exemple de sortie
@@ -84,11 +83,5 @@ TOUCHÉ
 
 Les contributions sont les bienvenues ! N'hésitez pas à forker le dépôt et à soumettre une pull request avec des améliorations ou des corrections de bugs.
 
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-Bon codage et amusez-vous bien en jouant à la Bataille Navale ! ⚓
+Amusez-vous bien en jouant à la Bataille Navale ! ⚓
 
